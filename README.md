@@ -1,2 +1,2 @@
 # OpenCV
-It is a python framework in which Web cam on your computer could detect faces.
+I made a *Face* and *Eye* detection GUI software using OpenCV framework in Python3
